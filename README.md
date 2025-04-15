@@ -10,35 +10,25 @@
 - JavaScript (using Node.js as the runtime environment)
 
 #### Frontend:
-- React
-- Next.js
-- HTML
-- CSS
-- Axios
-- MUI
-- Lighthouse
+- React, Next.js, HTML, CSS, Axios, MUI, Lighthouse
 
 #### Backend:
 - Firebase, SQL, PSQL, Supabase
 
 #### Testing:
-- Jest
-- Supertest
+- Jest, Supertest
 
 #### Hosting:
-- Netlify
-- Render
+- Netlify, Render
 
 #### Development Tools:
-- Git
-- Visual Studio Code
-- NPM
+- Git, Visual Studio Code, NPM
 
 ### :construction_worker: I'm currently working on:
+:hammer: A meal plan generator web application (more details soon!)
 
 ### :books: I'm currently learning:
 - Vue.js
 
 ### :rocket: I want to learn more about:
-- C#
-- .NET
+- C#, .NET
