@@ -3,7 +3,7 @@
 ### :man: A bit about me:
 - :mortar_board: I'm a Northcoders Software Development in JavaScript Bootcamp graduate
 - :mag_right: I'm currently search for a Junior/Graduate Software Developer role
-- :mailbox: [Connect with me on LinkedIn](https://www.linkedin.com/in/scottgirling/)
+- :mailbox: Connect with me on [LinkedIn](https://www.linkedin.com/in/scottgirling/)
 
 ### :computer: I'm coding with:
 #### Programming Languages:
@@ -27,8 +27,8 @@
 ### :construction_worker: I'm currently working on:
 - A meal plan generator web application (more details soon!)
 
-### :books: I'm currently learning:
+### :rocket: I'm currently learning:
 - Vue.js
 
-### :rocket: I want to learn more about:
+### :books: I want to learn more about:
 - C#, .NET
