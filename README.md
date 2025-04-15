@@ -1,22 +1,12 @@
-## Scott Girling :sunrise_over_mountains:
+# Scott Girling :sunrise_over_mountains:
 
-:mortar_board: I'm a Northcoders Software Development in JavaScript Bootcamp graduate
-:mag_right: I'm currently search for a Junior/Graduate Software Developer role
-:iphone: [Connect with me on LinkedIn](https://www.linkedin.com/in/scottgirling/)
+## A bit about me :school_satchel:
+- :mortar_board: I'm a Northcoders Software Development in JavaScript Bootcamp graduate
+- :mag_right: I'm currently search for a Junior/Graduate Software Developer role
+- :mailbox: [Connect with me on LinkedIn](https://www.linkedin.com/in/scottgirling/)
 
-:computer: 
+## I'm coding with :computer:
 
-<!--
-**scottgirling/scottgirling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently working on :construction_worker:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm currently learning :books:
