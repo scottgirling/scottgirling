@@ -1,6 +1,6 @@
 # :sunrise_over_mountains: Scott Girling
 
-### :school_satchel: A bit about me:
+### :man: A bit about me:
 - :mortar_board: I'm a Northcoders Software Development in JavaScript Bootcamp graduate
 - :mag_right: I'm currently search for a Junior/Graduate Software Developer role
 - :mailbox: [Connect with me on LinkedIn](https://www.linkedin.com/in/scottgirling/)
@@ -25,7 +25,7 @@
 - Git, Visual Studio Code, NPM
 
 ### :construction_worker: I'm currently working on:
-:hammer: A meal plan generator web application (more details soon!)
+- A meal plan generator web application (more details soon!)
 
 ### :books: I'm currently learning:
 - Vue.js
