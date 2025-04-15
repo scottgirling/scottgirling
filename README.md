@@ -1,12 +1,12 @@
-# Scott Girling :sunrise_over_mountains:
+# :sunrise_over_mountains: Scott Girling
 
-## A bit about me :school_satchel:
+## :school_satchel: A bit about me...
 - :mortar_board: I'm a Northcoders Software Development in JavaScript Bootcamp graduate
 - :mag_right: I'm currently search for a Junior/Graduate Software Developer role
 - :mailbox: [Connect with me on LinkedIn](https://www.linkedin.com/in/scottgirling/)
 
-## I'm coding with :computer:
+## :computer: I'm coding with...
 
-## I'm currently working on :construction_worker:
+## :construction_worker: I'm currently working on...
 
-## I'm currently learning :books:
+## :books: I'm currently learning...
