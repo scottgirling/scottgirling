@@ -1,6 +1,10 @@
 ## Scott Girling :sunrise_over_mountains:
 
-Connect with me:
+:mortar_board: I'm a Northcoders Software Development in JavaScript Bootcamp graduate
+:mag_right: I'm currently search for a Junior/Graduate Software Developer role
+:iphone: [Connect with me on LinkedIn](https://www.linkedin.com/in/scottgirling/)
+
+:computer: 
 
 <!--
 **scottgirling/scottgirling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
