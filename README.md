@@ -1,7 +1,6 @@
-## Scott Girling 👋
+## Scott Girling :sunrise_over_mountains:
 
 Connect with me:
-https://www.linkedin.com/in/scottgirling/
 
 <!--
 **scottgirling/scottgirling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
