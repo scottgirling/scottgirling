@@ -28,7 +28,7 @@
 - A meal plan generator web application (more details soon!)
 
 ### :rocket: I'm currently learning:
-- Vue.js
+- Vue.js, Tailwind
 
 ### :books: I want to learn more about:
-- C#, .NET
+- TypeScript, C#, .NET
