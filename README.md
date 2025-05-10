@@ -10,22 +10,32 @@
 - JavaScript (using Node.js as the runtime environment)
 
 #### Frontend:
-- React, Next.js, HTML, CSS, Axios, MUI, Lighthouse
+- React.js, Next.js, HTML, CSS, Axios, MUI, Lighthouse
 
 #### Backend:
-- Firebase, SQL, PSQL, Supabase
+- SQL, PostgreSQL, Supabase, Cloud Firestore, Insomnia, seeding, migrations
 
 #### Testing:
-- Jest, Supertest
+- Test Driven Development (TDD), Jest, Supertest
 
 #### Hosting:
-- Netlify, Render
+- Render, Netlify
 
 #### Development Tools:
 - Git, Visual Studio Code, NPM
 
-### :construction_worker: I'm currently working on:
-- A meal plan generator web application (more details soon!)
+#### Design & Project Planning Tools:
+- Figma, Excalidraw, Jira, Trello
+
+#### Other:
+- Paired programming, reading, buileing and maintaining technical documentation, SDKs, Agile and SCRUM methodologies
+
+### :construction_worker: I'm currently working on: A meal plan generator web application.
+- The backend features a PostgreSQL database and an Express server to build a RESTful API equipped with full CRUD functionality.
+    - If you would like to visit the backend repo, [click here](https://github.com/scottgirling/mpg-be)!
+    - If you would like to try out the hosted version, [click here](https://mpg-be.onrender.com/api)!
+- Utilising Axios to connect to a user-focused, intuitive and accessible Vue and Tailwind frontend.
+    - I'm currently working on the frontend - more to come soon!
 
 ### :rocket: I'm currently learning:
 - Vue.js, Tailwind
