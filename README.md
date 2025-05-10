@@ -28,7 +28,7 @@
 - Figma, Excalidraw, Jira, Trello
 
 #### Other:
-- Paired programming, reading, buileing and maintaining technical documentation, SDKs, Agile and SCRUM methodologies
+- Paired programming, reading, building and maintaining technical documentation, SDKs, Agile and SCRUM methodologies
 
 ### :construction_worker: I'm currently working on: A meal plan generator web application.
 - The backend features a PostgreSQL database and an Express server to build a RESTful API equipped with full CRUD functionality.
