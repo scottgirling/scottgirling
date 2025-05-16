@@ -7,16 +7,16 @@
 
 ### :computer: I'm coding with:
 #### Programming Languages:
-- JavaScript (using Node.js as the runtime environment)
+- JavaScript, TypeScript (using Node.js as the runtime environment)
 
 #### Frontend:
-- React.js, Next.js, HTML, CSS, Axios, MUI, Lighthouse
+- React.js, Vue.js, Next.js, HTML, CSS, Axios, Tailwind, MUI, Lighthouse
 
 #### Backend:
 - SQL, PostgreSQL, Supabase, Cloud Firestore, Insomnia, seeding, migrations
 
 #### Testing:
-- Test Driven Development (TDD), Jest, Supertest
+- Test Driven Development (TDD), Jest, Supertest, Mocha & Chai
 
 #### Hosting:
 - Render, Netlify
@@ -30,15 +30,19 @@
 #### Other:
 - Paired programming, reading, building and maintaining technical documentation, SDKs, Agile and SCRUM methodologies
 
-### :construction_worker: I'm currently working on: A meal plan generator web application.
+### :construction_worker: I'm currently working on: 
+#### Meal Plan Generator
 - The backend features a PostgreSQL database and an Express server to build a RESTful API equipped with full CRUD functionality.
-    - If you would like to visit the backend repo, [click here](https://github.com/scottgirling/mpg-be)!
-    - If you would like to try out the hosted version, [click here](https://mpg-be.onrender.com/api)!
+    - [Visit the backend repo](https://github.com/scottgirling/mpg-be)
+    - [Try out the hosted version](https://mpg-be.onrender.com/api)
 - Utilising Axios to connect to a user-focused, intuitive and accessible Vue and Tailwind frontend.
     - I'm currently working on the frontend - more to come soon!
+#### Events Platform
+- The backend is being built with TypeScript and Express, featuring a PostgreSQL database and a RESTful API with full CRUD functionality.
+    - [Visit the backend repo](https://github.com/scottgirling/events-platform-be)
 
 ### :rocket: I'm currently learning:
-- Vue.js, Tailwind
+- TypeScript, Vue.js, Tailwind, Mocha & Chai
 
 ### :books: I want to learn more about:
-- TypeScript, C#, .NET
+- C#, .NET
