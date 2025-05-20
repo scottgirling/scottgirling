@@ -16,7 +16,7 @@
 - SQL, PostgreSQL, Supabase, Cloud Firestore, Insomnia, seeding, migrations
 
 #### Testing:
-- Test Driven Development (TDD), Jest, Supertest, Mocha & Chai
+- Test Driven Development (TDD), Jest, Supertest
 
 #### Hosting:
 - Render, Netlify
@@ -42,7 +42,7 @@
     - [Visit the backend repo](https://github.com/scottgirling/events-platform-be)
 
 ### :rocket: I'm currently learning:
-- TypeScript, Vue.js, Tailwind, Mocha & Chai
+- TypeScript, Vue.js, Tailwind
 
 ### :books: I want to learn more about:
-- C#, .NET
+- C#, .NET, Mocha & Chai
