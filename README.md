@@ -40,6 +40,10 @@
 #### Events Platform
 - The backend is being built with TypeScript and Express, featuring a PostgreSQL database and a RESTful API with full CRUD functionality.
     - [Visit the backend repo](https://github.com/scottgirling/events-platform-be)
+    - [Try out the hosted version](https://events-platform-be-1fmx.onrender.com/api)
+- Utilising Axios to connect to a user-focused, intuitive and accessible React and Tailwind frontend. Incorporating user authentication (Supabase), payment processing (Stripe) and calendar (Google Calendar) integrations, as well as the handling of state, context, routing and error handling.
+    - [Visit the frontend repo](https://github.com/scottgirling/events-platform-fe)
+    - [Try out the hosted version](https://breezevents.netlify.app/)
 
 ### :rocket: I'm currently learning:
 - TypeScript, Vue.js, Tailwind
