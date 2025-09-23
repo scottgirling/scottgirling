@@ -9,14 +9,14 @@
 #### Programming Languages:
 - JavaScript, TypeScript (using Node.js as the runtime environment)
 
-#### Frontend:
-- React.js, Vue.js, Next.js, HTML, CSS, Axios, Tailwind, MUI, Lighthouse
-
-#### Backend:
-- SQL, PostgreSQL, Supabase, Cloud Firestore, Insomnia, seeding, migrations
-
 #### Testing:
 - Test Driven Development (TDD), Jest, Supertest
+
+#### Backend:
+- Express, SQL, PostgreSQL, Supabase, Cloud Firestore, Insomnia, seeding, migrations
+
+#### Frontend:
+- React.js, Next.js, HTML, CSS, Tailwind CSS, MUI, Axios, Lighthouse, Responsive Wed Design
 
 #### Hosting:
 - Render, Netlify
@@ -28,15 +28,17 @@
 - Figma, Excalidraw, Jira, Trello
 
 #### Other:
-- Paired programming, building and maintaining technical documentation, SDKs, Agile and SCRUM methodologies
+- Paired programming, building/maintaining technical docs, SDKs, Agile and SCRUM methodologies
 
 ### :construction_worker: I'm currently working on: 
 #### Meal Plan Generator
 - The backend features a PostgreSQL database and an Express server to build a RESTful API equipped with full CRUD functionality.
-    - [Visit the backend repo](https://github.com/scottgirling/mpg-be)
-    - [Try out the hosted version](https://mpg-be.onrender.com/api)
-- Utilising Axios to connect to a user-focused, intuitive and accessible Vue and Tailwind frontend.
+    - [Visit the backend repo](https://github.com/scottgirling/meal-planner-be)
+    - [Try out the hosted version]() Hosting happening soon!
+- Utilising Axios to connect to a user-focused, intuitive and accessible Next.js and Tailwind CSS frontend.
     - I'm currently working on the frontend - more to come soon!
+
+### :heavy_check_mark: I've recently built:
 #### Events Platform
 - The backend is being built with TypeScript and Express, featuring a PostgreSQL database and a RESTful API with full CRUD functionality.
     - [Visit the backend repo](https://github.com/scottgirling/breezevents-backend)
@@ -46,7 +48,7 @@
     - [Try out the hosted version](https://breezevents.netlify.app/)
 
 ### :rocket: I'm currently learning:
-- TypeScript, Vue.js, Tailwind
+- TypeScript, Tailwind CSS, CI/CD, frontend testing
 
 ### :books: I want to learn more about:
-- C#, .NET, Mocha & Chai
+- C#, .NET, Mocha & Chai, PHP
