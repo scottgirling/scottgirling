@@ -38,7 +38,7 @@
 - Utilising Axios to connect to a user-focused, intuitive and accessible Next.js and Tailwind CSS frontend.
     - I'm currently working on the frontend - more to come soon!
 
-### :heavy_check_mark: I've recently built:
+### ✅: I've recently built:
 #### Events Platform
 - The backend is being built with TypeScript and Express, featuring a PostgreSQL database and a RESTful API with full CRUD functionality.
     - [Visit the backend repo](https://github.com/scottgirling/breezevents-backend)
